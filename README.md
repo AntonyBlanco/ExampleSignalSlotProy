@@ -13,7 +13,7 @@ El código realizado se encuentra en el directorio [./src/](./src) del repositor
 
 ## Download
 El programa compilado como un binario se puede descargar mediante el siguiente enlace referente al presente repositorio:
- - :file_folder: [./binaries/SignalSlotProy.zip](https://raw.githubusercontent.com/AntonyBlanco/ExampleSignalSlotProy/main/binaries/SignalSlotProy.zip)
+ - :file_folder: [./binaries/ExampleSignalSlotProy.zip](https://raw.githubusercontent.com/AntonyBlanco/ExampleSignalSlotProy/main/binaries/ExampleSignalSlotProy.zip)
 
 El ejecutable no puede ejecutarse por si solo, requiere dependencias de archivos tipo .dll pertenecientes a Qt, es por ello que guiados por la [página oficial de Qt](https://doc.qt.io/qt-5/windows-deployment.html#the-windows-deployment-tool) se realizó una búsqueda automática de dependencias con el programa windeploy.exe y posteriormente comprimido en formato ZIP.
 
